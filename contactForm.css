@@ -1,0 +1,58 @@
+
+.headingText{
+    color: white;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 50px;
+    margin-right:50px;
+}
+.headingText h1{
+    text-align:right;
+
+}
+
+.headingText h2{
+    text-align: right;
+    font-family: 'Josefin Sans';
+
+
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px;
+    margin-bottom: 16px; 
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color:transparent;
+    color: white;
+    padding: 12px 20px;
+    border: 2px solid;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: rgb(118, 209, 209);
+  }
+  
+  .container {
+    display: table;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 20px;
+    color:white;
+    font-family: 'Josefin Sans', sans-serif;
+    width:50%;
+    
+  }
+
+  .child{
+    width:100%;
+  }
